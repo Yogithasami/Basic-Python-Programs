@@ -1,0 +1,5 @@
+//write a python program to concendrate first and last name by getting input from user//
+a = input("Enter first name")
+b = input("Enter second name")
+c = a+b
+print("Your full name:",c)
