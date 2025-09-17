@@ -1,0 +1,8 @@
+// write python program swap the 2 numbers//
+a=10;
+b=20;
+temp = a;
+a = b
+b = temp;
+print("After swapping:",a)
+print("After swapping:",b)
