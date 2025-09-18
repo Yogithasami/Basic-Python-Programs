@@ -1,0 +1,8 @@
+// write a python program to identify the age group of the person//
+age = int(input("enter the age of the person"))
+if (age<=12):
+  print("child")
+elif(13<= age<=19):
+  print("teenage") 
+else:
+  print("adult") 
