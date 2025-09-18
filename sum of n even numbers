@@ -1,0 +1,4 @@
+//write a python program to print sum of n even numbers//
+n = int(input("enter a number"))
+sum = n*(n+1)
+print("sum is:",sum)
