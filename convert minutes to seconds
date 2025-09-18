@@ -1,0 +1,4 @@
+//write a pythobn program to convert minutes to seconds//
+minutes = int(input("enter a number"))
+seconds = minutes*60
+print("after converting:",seconds)
