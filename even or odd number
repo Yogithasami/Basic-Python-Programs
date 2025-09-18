@@ -1,0 +1,6 @@
+//write a pyhon program to print even or odd number//
+a = int(input("Enter a number"))
+if(a%2==0):
+  print ("even number")
+else:
+    print("odd number")
