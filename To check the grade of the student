@@ -1,0 +1,12 @@
+// write a python program to check the grade of the student//
+marks = int(input("Enter the marks of the person"))
+if(marks>=90):
+  print("Grade A:")
+elif(7<= marks <=80):
+  print("Grade B:")
+elif(50<=marks<=70):
+  print("Grade C:")
+elif(40<=marks<=50):
+  print("Grade D:")
+else:
+  print("Fail")
