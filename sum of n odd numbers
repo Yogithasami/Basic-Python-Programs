@@ -1,0 +1,4 @@
+//write a python program to print sum of n odd numbers//
+n = int(input("enter a number"))
+sum = n**2
+print("sum is:",sum)
