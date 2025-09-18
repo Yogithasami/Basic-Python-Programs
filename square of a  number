@@ -1,0 +1,4 @@
+//write a pyhton program to print square of a number//
+a = int(input("Enter a number:"));
+square = a*a
+print("Square of a given number:",square)
