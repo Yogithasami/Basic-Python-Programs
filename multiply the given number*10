@@ -1,0 +1,4 @@
+//Write a python program to multiply the given number*10//
+a = int(input("Enter a number"))
+b = a*10
+print("after multiplying:",b)
