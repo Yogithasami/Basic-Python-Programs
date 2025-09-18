@@ -1,0 +1,7 @@
+//write a pyhton program to print arthematic operator//
+a = 10
+b = 20
+print("addition of wo numbers:",a+b)
+print("subtraction of two numbers:",a-b)
+print("mutiply of two numbers:",a*b)
+print("divison of two numbers:",a/b)
